@@ -1,1 +1,2 @@
 # Decision_tree
+A decision tree is one of the supervised machine learning algorithms. This algorithm can be used for regression and classification problems yet, is mostly used for classification problems. A decision tree follows a set of if-else conditions to visualize the data and classify it according to the conditions. A Decision tree is a flowchart like tree structure, where each internal node denotes a test on an attribute, each branch represents an outcome of the test, and each leaf node (terminal node) holds a class label.
